@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQYABgAAAAAAAAAAP//AAAAAAAAAADw/73LDwAAAAAA8P//7///DwAAAAAA/+/v7v4EAAAAAADw/y7/T+7//wAAAADw7/K/2+0i9A8AAAD/8vL/300i9A8AAAAv4v/+1E0i9QAAAAAv8vL+1E0i9QAAAAD/4vL/300i9A8AAADw7/K/2+Qi9A8AAADw/y7/T+7//wAAAAAA/+7v7k5BAAAAAAAA8P//7/9OAAAAAAAAAADw/9/tAAAAAAAAAAAAAN7tAAAAAAAAAAAAwMwOAAAAAAAAAAAAwM0AAAAAAAAAAAAA3M0AAAAAAAAAAADA3QwAAAAAAAAAAADczQAAAAAAAAAAAADcDAAAAAAAAAAAAADMAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heroFrontAttack4"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
